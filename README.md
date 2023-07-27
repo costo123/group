@@ -1,4 +1,4 @@
 # cloudformation
 To deploy a cloudformation template to AWS from Jenkins
 
-my first jenkins deployment from Github.
+my first jenkins deployment from Github
